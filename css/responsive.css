@@ -100,7 +100,7 @@
         padding-right:15px
     }
     .top-search form.form-search .box-search input{
-        max-width:295px
+        max-width:100%
     }
     .top-search form.form-search .box-search .search-suggestions{
         width:380px

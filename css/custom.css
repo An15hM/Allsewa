@@ -44,7 +44,7 @@
     align-items: center;
     justify-content: center;
     gap:25px;
-
+    
 }
 .footer-links li a{
     font-size: 16px;
@@ -175,6 +175,21 @@
 }
 .home3_img_box{
     position: relative;
+}
+@media only screen and (min-width:1025px) and (max-width:1400px){
+    .banner_one.home1_style .thumb img{
+        width: 225px;
+    }
+    .banner_one .details .title{
+        font-size: 22px;
+        line-height: 27px;
+    }
+    .shop_item.tiny_style .title, .shop_item.tiny_style a{
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;  
+        overflow: hidden;
+    }
 }
 @media only screen and (max-width:600px){
     .banner_one.home1_style .thumb img{

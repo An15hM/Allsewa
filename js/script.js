@@ -854,7 +854,7 @@
                     items: 3
                 },
                 1200: {
-                    items: 3
+                    items: 5
                 },
                 1366: {
                     items: 5
@@ -1071,7 +1071,7 @@
                     items: 4
                 },
                 1200: {
-                    items: 5
+                    items: 6
                 },
                 1400: {
                     items: 7
